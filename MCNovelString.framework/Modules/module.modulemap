@@ -1,0 +1,6 @@
+framework module MCNovelString {
+  umbrella header "MCNovelString.h"
+
+  export *
+  module * { export * }
+}
